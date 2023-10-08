@@ -4,7 +4,7 @@ import { NavLink,useNavigate } from "react-router-dom";
 import "./Common.css";
 import {useEffect} from "react";
 import AOS from "aos";
-import "aos/dist/aos.css";
+
 
 function Common({ name, imgsrc, visit, btname }) {
 
