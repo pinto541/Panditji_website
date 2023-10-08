@@ -1,0 +1,45 @@
+.al01 h1{
+    font-weight: 750;
+}
+.al01 h6{
+    color:gray;
+}
+
+.alk{
+  color: gray ;
+}
+.company{
+  color: #131E3A;
+}
+
+.ta{
+  padding: 30px;
+  background-color: blanchedalmond;
+  border-radius: 30px;
+  width: 1300px;
+  margin-left: 25px;
+}
+.al01 button{
+    background-color: #131E3A;
+    color: white;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+    
+    margin-left: 0px;
+  }
+  .al01{
+    margin-left: 80px;
+  }
+
+  .al02 img{
+    margin-left: 200px;
+    margin-top: -0px;
+    width: 550px;
+    border-radius: 30px;
+
+  }
+  .ta{
+    position: relative;
+    display: flex;
+  }

@@ -1,0 +1,34 @@
+.sol1{
+    display: flex;
+    position: relative;
+    background-color:lightblue;
+    border-radius: 30px;
+    height: 400px;
+    width: 1300px;
+    margin-left: 30px;
+    padding-top: 40px;
+}
+
+.leftsol{
+
+   color: gray;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.right img{
+    width: 650px;
+    border-radius: 30px;
+}
+
+.leftsol h1{
+ margin-left: 10px;
+ font-weight: bolder;
+ color: #131E3A;
+}
+
+.connect{
+    margin-left: 50px;
+}
+
+

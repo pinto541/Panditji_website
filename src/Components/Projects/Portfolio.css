@@ -1,0 +1,39 @@
+.center{
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 50px;
+   
+  
+}
+
+
+
+.center img{
+    width: 450px;
+    
+    margin-left: -40%;
+    border-radius: 20px;
+    
+
+}
+
+.asd{
+    position: relative;
+    display: flex;
+
+}
+
+.ch h3{
+    margin-left: 35%;
+    text-decoration: underline;
+    color: skyblue;
+    margin-left: 25%;
+    
+}
+
+.ch-c{
+    
+   padding: 50px;
+   display: block;
+   justify-content: space-around;
+}

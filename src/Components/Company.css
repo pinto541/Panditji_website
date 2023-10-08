@@ -1,0 +1,38 @@
+
+
+.call{
+    position: relative;
+    display: flex;
+}
+
+.c1 img{
+    margin-left: 90px;
+    width: 200px;
+}
+
+
+
+.c2 img{
+    margin-left: 90px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.c3 img{
+    margin-left: 100px;
+    width: 200px;
+}
+
+.c4 img{
+    margin-left: 120px;
+    width: 200px;
+    margin-top: -40px;
+}
+
+.oup h4{
+    color: #131E3A;
+    font-weight: bolder;
+    margin-left: 500px;
+    
+
+}

@@ -1,0 +1,39 @@
+
+
+
+
+
+
+  
+  
+ 
+  
+  
+  
+    
+    .righty img {
+      width: 43rem;
+      height: 20rem;
+      object-fit: cover;
+      padding-left: 5rem;
+      border-radius: 16px 16px 16px 16px ;
+    }
+    
+    .leftby {
+      width: 100%;
+      position: relative;
+      
+      margin-left: 80px;
+      text-align:justify; 
+      margin-top: 10px;
+    }
+  
+    .leftby h1{
+      color: #131E3A !important;
+      
+      font-weight: 1000;
+      
+     
+      
+    }
+    

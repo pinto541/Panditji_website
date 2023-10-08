@@ -1,0 +1,66 @@
+
+ .mix{
+  position: relative;
+  display: flex;
+ }
+  
+
+  .righttt img{
+    border-radius: 42px !important;
+    padding: 35px;
+    width: 600px;
+    margin-top: 80px;
+    
+  }
+
+  .left p{
+    color: #131E3A;
+  }
+  .Container {
+   
+    position: relative;
+    display: flex;
+    
+  }
+
+ 
+  
+
+  .righ h3{
+   text-align: center;
+   padding-top: 10px;
+   
+  }
+  .righ h6{
+    text-align: center;
+    padding: 1px;
+    color: #131E3A;
+   }
+
+  .righ img{
+ 
+    border-radius: 8px !important;
+  /* Optional: Add styling for individual images here */
+  
+  
+  }
+
+  .left h1{
+    color: #131E3A;
+  }
+
+
+  .lefty{
+    margin-left: 0px;
+    margin-top: 80px;
+  }
+
+  .lefty h1{
+    color: #131E3A;
+  }
+
+  .lefty p{
+    color: #131E3A;
+  }
+
+  

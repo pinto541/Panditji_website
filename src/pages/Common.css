@@ -1,0 +1,42 @@
+.asf{
+  position:relative;
+  display: flex;
+ 
+  
+}
+
+.rightt img{
+
+  width: 550px !important;
+  margin-left: -250px;
+  margin-top: -0px;
+}
+
+.leftt h1{
+ 
+  margin-left: 30px;
+  font-weight: 1000;
+  color:#131E3A;
+  text-shadow: rgb(53, 39, 39) 0px 0px 0px;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  width: 900px;
+  
+  margin-top: 130px;
+  
+}
+.leftt h4{
+  padding: 20px;
+  text-align: justify;
+  margin-left: 18px;
+}
+
+.leftt button{
+  background-color: #131E3A;
+  color: white;
+  border-radius: 5px;
+  width: 150px;
+  height: 40px;
+  margin-left: 50px;
+}
+
