@@ -6,30 +6,15 @@ const Footer = () => {
     <footer className="footer-i">
       <div className="footer-content">
         <div className="footer-logo">
-          <h1>DATS LLP</h1>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio alias impedit tempore nulla vero nobis tempora quis dolorem quo, inventore deleniti voluptatem animi, perspiciatis blanditiis autem voluptate praesentium ea. Veniam?</p>
-          
+        <img src="https://tse4.mm.bing.net/th?id=OIP.sMx4fMbaw7JWzJwSMOtomAE4DH&pid=Api&P=0&h=220" alt="logo"
+                style={{width:"130px", height:"70px"}}
+                />
+                <br/>
+          <p><br/>Elevate your spiritual journey with our expert Panditji services—your trusted companion for seamless and blessed ceremonies. Our dedicated team harmonizes tradition with modern convenience, ensuring authentic and memorable experiences. Explore a world of divine grace and expertise as we navigate sacred rituals together. </p>
         </div>
       
 
-        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4" style={{paddingTop:"20px"}}>
-         
-          <h6 class="text-uppercase fw-bold mb-4">
-            Products
-          </h6>
-          <p>
-            <a href="#!" class="text-reset">Angular</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">React</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Vue</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Laravel</a>
-          </p>
-        </div>
+       
 
 
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4"  style={{paddingTop:"20px"}}>

@@ -1,0 +1,210 @@
+.contact-form-container12 {
+    /* Example border color */
+   
+   color:black;
+  
+ }
+ .contact-container {
+   border: 1px solid #fff; 
+   border-radius: 0.5rem;
+   width: 40px;
+   
+  
+   
+ }
+ 
+ .re{
+   text-align: center;
+ }
+
+ .row{
+  display: flex;
+ }
+ .r234{
+   
+   
+   border-radius: 40px;
+  width: 1300px;
+  margin-left: 10px;
+  height: 500px;
+ }
+ 
+.a{
+ position: relative;
+ display: flex;
+}
+ .a12{
+   margin-left: 150px;
+   padding-bottom: 40px;
+
+ }
+
+ .a13{
+   margin-left: 100px;
+   padding-bottom: 40px;
+ }
+
+
+ 
+
+ .a14{
+   margin-left: 100px;
+   padding-bottom: 40px;
+ }
+
+ .a15{
+   margin-left: 100px;
+   padding-bottom: 40px;
+ }
+ .a12 h2{
+   color: #131E3A;
+ }
+
+
+ .a12 h6{
+   color: #131E3A;
+ }
+
+ .a13 h2{
+   color: #131E3A;
+ }
+
+ .global h1{
+   color: #131E3A;
+ }
+
+ .a13 h6{
+   color: #131E3A;
+ }
+
+
+ .a14 h2{
+   color: #131E3A;
+ }
+
+
+ .a14 h6{
+   color: #131E3A;
+ }
+
+
+
+ .a15 h2{
+   color: #131E3A;
+ }
+
+
+ .a15 h6{
+   color: #131E3A;
+ }
+
+
+
+
+ .sol11{
+   display: flex;
+   position: relative;
+  
+   border-radius: 30px;
+   height: 400px;
+   width: 1300px;
+   margin-left: 30px;
+   padding-top: 40px;
+}
+
+
+
+.r12{
+ display: flex;
+ position: relative;
+}
+
+.r12 img{
+  width: 100px;
+}
+
+.r121 h4{
+ color: #131E3A;
+}
+.r122 h4{
+ margin-left: 110px;
+ color: #131E3A;
+}
+.r122 h6{
+ margin-left: 90px;
+ color: gray;
+}
+
+.r123 h4{
+ margin-left: 110px;
+ color: #131E3A;
+ margin-top: 25px;
+}
+.r123 h6{
+ margin-left: 90px;
+ color: gray;
+}
+
+
+.r122 img{
+ margin-left: 90px;
+}
+
+.r123 img{
+ margin-left: 130px;
+ margin-top: 20px;
+ width: 40px;
+}
+.leftsol1{
+
+  color: gray;
+   margin-left: 30px;
+   margin-top: 30px;
+}
+
+.right1 img{
+   width: 550px;
+   height: 300px;
+   border-radius: 30px;
+  
+   
+}
+
+.leftsol1 h1{
+margin-left: 10px;
+font-weight: bolder;
+color: #131E3A;
+}
+
+.connect1{
+   margin-left: 50px;
+}
+
+@media (max-width: 657px) {
+
+
+
+.contact-form-container12{
+
+  width: 300px;
+  margin-top: -200px;
+}
+
+.form456 img{
+
+display: none;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+ 
+ 

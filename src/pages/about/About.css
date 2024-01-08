@@ -9,7 +9,16 @@
     border-radius: 42px !important;
     padding: 35px;
     width: 600px;
+    height: 450px;
     margin-top: 80px;
+    
+  }
+  .righttt1 img{
+    border-radius: 42px !important;
+    padding: 35px;
+    width: 600px;
+    height: 450px;
+    margin-top: 60px;
     
   }
 
@@ -63,4 +72,50 @@
     color: #131E3A;
   }
 
+
+
+  @media (max-width: 657px) {
+
+.mix{
+  display:flex;
+  flex-direction: column;
+}
+
+.lefty{
+  order: 1px !important;;
+}
+
+.lefty p{
+  margin-left: 10px;
+  overflow: hidden;
+}
+
+.righttt1{
+  order:2;
+}
+
+.righttt img{
+  width: 400px;
+  margin-left: -20px;
+}
+
+.righttt1 img{
+  order:2;
+  width:400px;
+  margin-left: -20px;
+}
+
+
+.leftb h1{
+  margin-left: -180px;
+}
+.leftb p{
+  
+  padding-left: -100px;
+  padding-right: 100px;
+  
+  
+  
+}
+  }
   

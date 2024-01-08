@@ -14,23 +14,25 @@ const About01 = () => {
         <h4>About Us</h4>
         </span>
 
-        <h1>Best Growing <span className="company">Company</span><br/> In The Town</h1>
+        <h1>पंडित दिनेश तिवारी</h1>
           <br/>
           
-          <h4>Since 2018 _______</h4>
+          <h4>Since 2020 _______</h4>
 
           <br/>
 
-          <h6>Lorem ipsum, dolor sit amet consectetur adipisicing elit.<br/> Dolore voluptatum deleniti recusandae eveniet animi<br/> Non unde, deleniti minus dolor atque quibusdam aut <br/>soluta omnis nobis.</h6>
+          <h6>Are you searching for North Indian Pandit in Bangalore? This is the right place for your puja. PANDIT DINESH TIWARI Ji is providing the best puja services like Ganesh Puja, Griha Pravesh Puja, Satyanarayan Puja, New Business Opening Puja, Mata Ki Chouki & Jagran Maha Mritunjya Jap, Birthday Puja, Mundan Ceremony Puja and many more. पूजा सामग्री के साथ ऑनलाइन पंडित बुक करें। "पंडित दिनेश तिवारी " हवन, यज्ञ, शांति विधान, शुभ विवाह, सत्यनारायण कथा, गृह प्रवेश, नामकरण संस्कार, नवग्रह शांति, सगाई, उत्सव पूजा, जनेऊ, गणेश पूजा, राम कथा, भागवत कथा, मुंडन, वास्तु शांति आदि अनुष्ठान करवाते हैं।</h6>
     
            <br/>
            
           <button>Read More</button>
+          <br/>
+          <br/>
 
     </div>
 
     <div className='al02'>
-        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWjwWakZrD7EkyAaU2HQdQ4DOzdPwsbnm3JHKMuCdmZ92IXVi-Gofl8eDNUC7ejfiF860&usqp=CAU'/>
+        <img src='http://panditpuja.in/images/team3.jpg'/>
 
     </div>
     </div>

@@ -1,11 +1,11 @@
-.sol1{
+.sol198{
     display: flex;
     position: relative;
     background-color:lightblue;
     border-radius: 30px;
     height: 400px;
-    width: 1300px;
-    margin-left: 30px;
+    width: 1180px;
+    margin-left: 10px;
     padding-top: 40px;
 }
 
@@ -16,9 +16,11 @@
     margin-top: 30px;
 }
 
-.right img{
-    width: 650px;
+.right231 img{
+    width: 500px;
     border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 40px;
 }
 
 .leftsol h1{
@@ -32,3 +34,27 @@
 }
 
 
+
+@media (max-width: 657px) {
+
+
+.sol198{
+    display: flex;
+    flex-direction: column;
+    height: 850px;
+    width: 350px;
+    margin-left: 10px;
+    
+}
+
+.right231 img{
+    margin-left: 20px;
+    width: 320px;
+    
+}
+
+
+
+
+
+}

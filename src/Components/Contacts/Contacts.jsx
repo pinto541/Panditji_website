@@ -127,62 +127,7 @@ export const Contacts = () => {
     <br/>
     <br/>
     <br/>
-    <div className='globajl'>
-    <h1 className="text-center font-bold"  style={{color:"#131E3A"}}>Our Global Offices & Partners</h1> 
-    </div>
     
-    
-  <div className='a'>
-    
-    <div className='a12'>
-      <h2>Europe</h2>
-      
-      <h6>12,Longcroft C.B.
-        <br/>
-        
-             RG218XG,Hampshire,U.K.<br/>
-             info(at)datsweb.com<br/>
-             +31 3000983234
-             </h6>
-    </div>
-
-    <div className='a13'>
-      <h2>Europe</h2>
-      
-      <h6>12,Longcroft C.B.
-        <br/>
-        
-             RG218XG,Hampshire,U.K.<br/>
-             info(at)datsweb.com<br/>
-             +31 3000983234
-             </h6>
-    </div>
-
-    <div className='a14'>
-      <h2>Europe</h2>
-      
-      <h6>12,Longcroft C.B.
-        <br/>
-        
-             RG218XG,Hampshire,U.K.<br/>
-             info(at)datsweb.com<br/>
-             +31 3000983234
-             </h6>
-    </div>
-
-    <div className='a15'>
-      <h2>Europe</h2>
-      
-      <h6>12,Longcroft C.B.
-        <br/>
-        
-             RG218XG,Hampshire,U.K.<br/>
-             info(at)datsweb.com<br/>
-             +31 3000983234
-             </h6>
-    </div>
-    </div>
-
     
    </>
   );

@@ -1,9 +1,7 @@
 import React from 'react';
 import  "./Services02.css";
-import {useEffect} from "react";
-import { NavLink,useNavigate } from "react-router-dom";
-import AOS from "aos";
 
+import { NavLink,useNavigate } from "react-router-dom";
 
 const Services02 = () => {
 
@@ -12,57 +10,52 @@ const Services02 = () => {
         navigate('/Services')
       }
 
-    useEffect(() => {
-        AOS.init({duration:1000});
-        AOS.refresh();
-      }, []);
-
   return (
     <>
-
-       
-    <h1 className="text-center font-bold" style={{marginLeft:"60px",color:"#131E3A"}}>Our Expertise At your  Services</h1>
-    <h5 className="text-center font-bold" style={{marginLeft:"60px",color:"gray"}} >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusais!<br/> repellendus tenetur. Aspernatur, doloribus ducimu</h5>
+      
+    <h1 className="text-center font-bold" style={{marginLeft:"15px",color:"#131E3A"}}>Our Services</h1>
+    <h5 className="mit text-center font-bold" style={{marginLeft:"0px",color:"gray"}} >Lorem ipsum dolor, consectetur adipisicing elit. Recusais!<br/> repellendus tenetur. Aspernatur, doloribus ducimu</h5>
     
     <div className='m'>
     
     <div className='left01'>
-        <div data-aos="fade-right" className='l01'>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIco-3HKBOkCOUwAzjJWbLjmVlB1YpwJ8MHA&usqp=CAU" alt="" />
-            <h3>Traffic Management</h3>
-            <p>poss ndhjf ffjfjg ffhhfhfbf vvhhffb vvhhv  <br/>vvnvv vnj fhuyt thfn cjf fjfjd ddjf cbfhgyt <br/>tyhfn werfds sdff</p>
+        <div  className='l01'>
+            
+            <h3>Satyanarayan Puja</h3>
+            
+            <p>Experience divine blessings and prosperity <br/>with our Satyanarayan Puja services.<br/> Join us in celebrating the auspicious<br/> moments of life with devotion<br/> and joy. Book now for a spiritually <br/>enriching experience!</p>
             <button onClick={n}>Read More</button>
         </div>
         <br/>
         <hr/>
-        <div  data-aos="fade-right" className='l02'>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIco-3HKBOkCOUwAzjJWbLjmVlB1YpwJ8MHA&usqp=CAU" alt="" />
-            <h3>Traffic Management</h3>
-            <p>poss ndhjf ffjfjg ffhhfhfbf vvhhffb vvhhv  <br/>vvnvv vnj fhuyt thfn cjf fjfjd ddjf cbfhgyt <br/>tyhfn werfds sdff</p>
+        <div className='l02'>
+            
+            <h3>Mundan Puja</h3>
+            <p>Mark the joyous occasion of your <br/> child's Mundan ceremony with our sacred <br/>puja services. Create lasting memories <br/>filled with blessings, tradition, and love. </p>
             <button onClick={n}>Read More</button>
         </div>
         
 
     </div>
     
-    <div data-aos="fade-down" className='mid1'>
-      <img src='https://img.freepik.com/free-vector/traffic-laws-abstract-concept-vector-illustration-traffic-code-obey-laws-regulations-driving-license-vehicle-movement-rules-road-safety-violation-fine-international-abstract-metaphor_335657-1798.jpg?size=626&ext=jpg&ga=GA1.2.1292418745.1696362691&semt=ais' />
+    <div  className='mid1'>
+      <img src='http://panditpuja.in/images/team3.jpg' />
      </div>
        
 
        <div className='right01'>
-        <div data-aos="fade-left" className='r01'>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIco-3HKBOkCOUwAzjJWbLjmVlB1YpwJ8MHA&usqp=CAU" alt="" />
-            <h3>Traffic Management</h3>
-            <p>poss ndhjf ffjfjg ffhhfhfbf vvhhffb vvhhv  <br/>vvnvv vnj fhuyt thfn cjf fjfjd ddjf cbfhgyt <br/>tyhfn werfds sdff</p>
+        <div className='r01'>
+           
+            <h3>Mundan Puja</h3>
+            <p>Mark the joyous occasion of your <br/> child's Mundan ceremony with our sacred <br/>puja services. Create lasting memories <br/>filled with blessings, tradition, and love. </p>
             <button onClick={n}>Read More</button>
         </div>
         <br/>
                 <hr/> 
-        <div data-aos="fade-left" className='r02'>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIco-3HKBOkCOUwAzjJWbLjmVlB1YpwJ8MHA&usqp=CAU" alt="" />
-            <h3>Traffic Management</h3>
-            <p>poss ndhjf ffjfjg ffhhfhfbf vvhhffb vvhhv  <br/>vvnvv vnj fhuyt thfn cjf fjfjd ddjf cbfhgyt <br/>tyhfn werfds sdff</p>
+        <div  className='r02'>
+            
+            <h3>Satyanarayan Puja</h3>
+            <p>Experience divine blessings and prosperity <br/>with our Satyanarayan Puja services.<br/> Join us in celebrating the auspicious<br/> moments of life with devotion<br/> and joy. Book now for a spiritually <br/>enriching experience!</p>
             <button onClick={n}>Read More</button>
         </div>
         

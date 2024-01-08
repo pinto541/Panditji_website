@@ -16,8 +16,8 @@
   padding: 30px;
   background-color: blanchedalmond;
   border-radius: 30px;
-  width: 1300px;
-  margin-left: 25px;
+  width: 1190px;
+  margin-left: 10px;
 }
 .al01 button{
     background-color: #131E3A;
@@ -35,11 +35,43 @@
   .al02 img{
     margin-left: 200px;
     margin-top: -0px;
-    width: 550px;
+    width: 450px;
     border-radius: 30px;
 
   }
   .ta{
     position: relative;
     display: flex;
+  }
+
+  @media (max-width: 657px) {
+
+    
+    .ta{
+      display: flex;
+      flex-direction: column;
+      width:340px;
+      margin-left: 13px;
+      
+    }
+
+    .al01{
+      margin-left: -20px !important;
+      width: 300px;
+    }
+
+    .al02 img{
+      width: 320px;
+      height: 320px;
+      margin-left: -20px;
+    }
+
+    .al01 button{
+      margin-left: 70px;
+      
+    }
+
+
+
+
   }

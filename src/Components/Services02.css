@@ -1,13 +1,17 @@
 .mid1 img{
-    width: 350px;
-    height: 500px;
+    width: 300px;
+    height: 400px;
     margin-left: 150px;
+    border-radius: 30px;
+    margin-top: 130px;
+    
     
 }
 
 .m{
     position: relative;
     display: flex;
+    margin-left: 20px;
     
     
 
@@ -49,14 +53,14 @@
 
 .l02 h3{
     margin-top: 100px;
-    margin-left: 30px;
+    margin-left: 20px;
     font-weight: bolder;
     color:#131E3A;
 }
 
 .l02 p{
     margin-top: 140px;
-    margin-left: -260px;
+    margin-left: -220px;
     color: gray;
 }
 
@@ -70,12 +74,12 @@
 .r01{
     position: relative;
     display: flex;
-    margin-left: 100px;
+    margin-left: 190px;
 }
 
 .r01 h3{
     margin-top: 100px;
-    margin-left: 30px;
+    margin-left: 50px;
     font-weight: bolder;
     color:#131E3A;
 }
@@ -109,7 +113,7 @@
 
 .r01 p{
     margin-top: 140px;
-    margin-left: -260px;
+    margin-left: -190px;
 }
 
 .r01 img{
@@ -129,14 +133,14 @@
 
 .r02 h3{
     margin-top: 100px;
-    margin-left: 30px;
+    margin-left: 50px;
     font-weight: bolder;
     color:#131E3A;
 }
 
 .r02 p{
     margin-top: 140px;
-    margin-left: -260px;
+    margin-left: 100px;
     color: gray;
 }
 
@@ -179,14 +183,14 @@
 
 .l01 h3{
     margin-top: 100px;
-    margin-left: 30px;
+    margin-left: 20px;
     font-weight: bolder;
     color:#131E3A;
 }
 
 .l01 p{
     margin-top: 140px;
-    margin-left: -260px;
+    margin-left: -250px;
     color: gray;
 }
 
@@ -202,7 +206,7 @@
     border-radius: 10px;
     width: 150px;
     height: 40px;
-    margin-top: 230px;
+    margin-top: 260px;
     margin-left: -270px;
     color: white;
     border-color: gray;
@@ -216,7 +220,7 @@
     border-radius: 10px;
     width: 150px;
     height: 40px;
-    margin-top: 230px;
+    margin-top: 290px;
     margin-left: -270px;
     color: white;
     border-color: gray;
@@ -229,7 +233,7 @@
     border-radius: 10px;
     width: 150px;
     height: 40px;
-    margin-top: 230px;
+    margin-top: 290px;
     margin-left: -270px;
     color: white;
     border-color: gray;
@@ -242,7 +246,7 @@
     border-radius: 10px;
     width: 150px;
     height: 40px;
-    margin-top: 230px;
+    margin-top: 250px;
     margin-left: -250px;
     color: white;
     border-color: gray;
@@ -251,3 +255,41 @@
   }
 
   
+  @media (max-width: 657px) {
+    
+    .mid1 img{
+        display:none;
+    }
+     
+
+    .m{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .l01{
+        margin-left: 55px;
+    }
+   
+
+    .l02{
+        margin-left: 85px;
+    }
+    
+
+    
+
+    .r01{
+        margin-left: 50px;
+    }
+
+    
+
+    .r02{
+        margin-left: 50px;
+    }
+    
+    
+
+  }
